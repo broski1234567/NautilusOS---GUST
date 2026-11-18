@@ -30,6 +30,7 @@ FYI if you want to use the GUST for NautilusOS it is best to download the entire
 <summary>FYI Explanation</summary>
 To get GUST in NautilusOS I just put GUST in an iframe however if the GUST file is not on you computer then it will say "Could not find" or something like that. It is easier to just download the zip file than to download both files separately, hence the FYI. 
 </details>
+
 ---
 
 <div align="center">
