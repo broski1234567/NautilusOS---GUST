@@ -27,8 +27,10 @@ Then I said "What if I put GUST in NautilusOS". The NautilusOS tab has also been
 FYI if you want to use the GUST for NautilusOS it is best to download the entire zip file, otherwise the GUST inside NautilusOS will not work.
 
 <details>
-<summary>FYI Explanation</summary>
+<summary>More Explanation</summary>
 To get GUST in NautilusOS I just put GUST in an iframe however if the GUST file is not on you computer then it will say "Could not find" or something like that. It is easier to just download the zip file than to download both files separately, hence the FYI.
+
+The second branch of this repository has a version of NautilusOS with a few more modifications.
 </details>
 
 ---
